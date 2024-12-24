@@ -1,0 +1,1 @@
+function foo(a,b){return a+b;}console.log(foo(1, "2")); //Expected 3, Actual "12"
